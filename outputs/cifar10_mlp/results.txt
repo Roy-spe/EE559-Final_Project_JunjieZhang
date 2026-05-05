@@ -1,0 +1,6 @@
+Dataset: cifar10
+Model: mlp
+Implementation: NumPy MLP, no PyTorch/TensorFlow layers or optimizer
+Test Loss: 1.6752
+Test Accuracy: 0.4199
+Test Macro-F1: 0.4120

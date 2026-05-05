@@ -1,0 +1,5 @@
+Dataset: cifar10
+Model: resnet18
+Test Loss: 0.5403
+Test Accuracy: 0.8197
+Test Macro-F1: 0.8187

@@ -1,0 +1,5 @@
+Dataset: cifar100
+Model: cnn
+Test Loss: 2.1337
+Test Accuracy: 0.4353
+Test Macro-F1: 0.4223

@@ -1,0 +1,17 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Local datasets
+data/
+
+# Training checkpoints and large generated artifacts
+outputs/**/*.pt
+outputs/**/*.pth
+outputs/**/*.npz
+

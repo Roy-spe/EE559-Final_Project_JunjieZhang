@@ -1,0 +1,5 @@
+Dataset: cifar100
+Model: mlp
+Test Loss: 3.8328
+Test Accuracy: 0.1181
+Test Macro-F1: 0.1005
