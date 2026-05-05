@@ -25,6 +25,7 @@ The project trains each model, evaluates test loss/accuracy/macro-F1, and saves 
 |   |-- metrics.py                 # accuracy, macro-F1, confusion matrix
 |   `-- train_utils.py             # plotting and PyTorch train/eval helpers
 |-- train.py                       # Main training entry point
+|-- merge_figures.py               # Merge output plots for reporting
 `-- requirements.txt
 ```
 
@@ -159,4 +160,3 @@ The MLP in `models/mlp.py` is implemented from basic numerical operations:
 - `.npz` checkpoint save/load
 
 The CNN and ResNet-18 implementations remain PyTorch-based because they are convolutional baselines, while the MLP satisfies the basic-library requirement.
-
